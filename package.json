@@ -1,0 +1,31 @@
+{
+	"name": "jestmeetup",
+	"version": "1.0.0",
+	"description": "Puppeteer meetup examples",
+	"main": "index.js",
+	"scripts": {
+		"testCharacters": "mocha test/characters.test.js",
+		"testCharactersById": "mocha test/charactersById.test.js",
+		"testContinents": "mocha test/continents.test.js",
+		"testContinentsById": "mocha test/continentsById.test.js",
+		"test:coverage": "jest --coverage"
+	},
+	"type": "commonjs",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jerryosorio2/jestMeetup.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jerryosorio2/jestMeetup/issues"
+	},
+	"homepage": "https://github.com/jerryosorio2/jestMeetup#readme",
+	"dependencies": {
+		"@babel/preset-env": "^7.15.6",
+		"chai": "^4.3.6",
+		"jest": "^29.1.2",
+		"mocha": "^10.0.0",
+		"supertest": "^6.2.4"
+	}
+}
