@@ -1,4 +1,4 @@
-# supertest, Mocha and Chi challenge 
+# supertest, Mocha and Chai challenge 
 
 Game of Thrones api tests
 
