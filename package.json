@@ -1,7 +1,7 @@
 {
-	"name": "jestmeetup",
+	"name": "challengeGOT",
 	"version": "1.0.0",
-	"description": "Puppeteer meetup examples",
+	"description": "challengeGOT",
 	"main": "index.js",
 	"scripts": {
 		"testCharacters": "mocha test/characters.test.js",
@@ -13,14 +13,14 @@
 	"type": "commonjs",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jerryosorio2/jestMeetup.git"
+		"url": "git+https://github.com/jerryosorio2/challengeGOT"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/jerryosorio2/jestMeetup/issues"
+		"url": "https://github.com/jerryosorio2/challengeGOT/issues"
 	},
-	"homepage": "https://github.com/jerryosorio2/jestMeetup#readme",
+	"homepage": "https://github.com/jerryosorio2/challengeGOT#readme",
 	"dependencies": {
 		"@babel/preset-env": "^7.15.6",
 		"chai": "^4.3.6",
